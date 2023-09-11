@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GAME_developer&fontAlign=50&fontAlignY=40&color=gradient)
+
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jeongwoo Lee, an Aspiring Developer Turning Dreams into Code</h1>
